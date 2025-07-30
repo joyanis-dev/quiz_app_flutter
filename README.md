@@ -1,16 +1,36 @@
-# quiz_app
+# Flutter Quiz App 🎯
 
-A new Flutter project.
+A sleek, minimal quiz application built using Flutter.  
+This app is designed to demonstrate layout mastery, local state management, navigation, and more — all in a clean UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
+(Add here later as you go)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Multiple choice questions
+- Score tracking
+- Clean UI using Column/Row/Layout widgets
+- Navigation between screens
+- State management (Coming soon with Cubit!)
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter (obviously 😉)
+- Dart
+- [Bloc / Cubit] (coming later)
+- Firebase (later)
+
+---
+
+## 🔧 How to Run
+
+```bash
+flutter pub get
+flutter run
